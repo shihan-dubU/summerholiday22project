@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: 156b2a8ffdca98c46a8c1edfa2ba30ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astronaut Spritesheet
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 906
+        width: 142
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e423a11c41bd4ebf7871a44885b84
+      internalID: -841895018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 906
+        width: 141
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e2424b30cc160449812b3fcdc0590e
+      internalID: -1320139587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 906
+        width: 125
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07747eab55d708341a7629da332cb249
+      internalID: 2103959475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 914
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78c2ebc351330f478833e170adf6e28
+      internalID: -739675356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 917
+        width: 113
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78766a67ee957594ca6376df52586fe9
+      internalID: 1881733852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 702
+        width: 118
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468d5afd6a66db742be3bcaeec7e72cd
+      internalID: 146963350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 702
+        width: 125
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38502add863eb243a74759f156fe391
+      internalID: -1566922931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 697
+        width: 129
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6292ea5634f6f44829477defad1498
+      internalID: -1115518005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 689
+        width: 140
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0a81d5672ac141b662a59cae42dee
+      internalID: 2132109709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 685
+        width: 145
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff25fd01a201d458565427cfc32b22
+      internalID: 747672288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 466
+        width: 142
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb71d8cd628ba843b7aeef50524b80d
+      internalID: 100846908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 465
+        width: 141
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645dc04e29912c145a0e40266c8b3aac
+      internalID: -898207117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 466
+        width: 116
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae38e7b73eb66a4f88f5a0e960dcf9d
+      internalID: 887698287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 465
+        width: 100
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b885a7ad5271ee45b18600232a7810a
+      internalID: 1523077319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 466
+        width: 97
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a769715353e942a5476bf3820285e
+      internalID: -237159260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 246
+        width: 97
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba58852f6313f04f9a4b3d6918105e0
+      internalID: 508115138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 245
+        width: 99
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142b794802116647b5f5f1ce49ee0bf
+      internalID: 1495019213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 246
+        width: 98
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2062af2b692f1647862b459a5931963
+      internalID: -1595333338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 246
+        width: 97
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef945f52859d4d7478fef1fe98b44fd2
+      internalID: 1829610148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 246
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ba16be68844d4d8e5911d3c76bca8
+      internalID: 1519441902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 25
+        width: 153
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b8d87b002dbc4e8a4ec08bd68ed5b
+      internalID: -1953823615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 26
+        width: 124
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7081ba216ef95b42bf3a417b532482e
+      internalID: 1106521486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 25
+        width: 152
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbeea6934ab8f50478b47451473f1c64
+      internalID: 1881631176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 26
+        width: 152
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69692ff0a1d27142997792adf4786ab
+      internalID: 411492000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Astronaut Spritesheet-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 26
+        width: 97
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef57ad46f468254cb4152d1c5361f5e
+      internalID: -1981572210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Astronaut Spritesheet-PhotoRoom_11: -898207117
+      Astronaut Spritesheet-PhotoRoom_7: -1115518005
+      Astronaut Spritesheet-PhotoRoom_21: 1106521486
+      Astronaut Spritesheet-PhotoRoom_17: -1595333338
+      Astronaut Spritesheet-PhotoRoom_24: 1881631176
+      Astronaut Spritesheet-PhotoRoom_9: 747672288
+      Astronaut Spritesheet-PhotoRoom_15: 508115138
+      Astronaut Spritesheet-PhotoRoom_29: -1412085044
+      Astronaut Spritesheet-PhotoRoom_23: 498828811
+      Astronaut Spritesheet-PhotoRoom_16: 1495019213
+      Astronaut Spritesheet-PhotoRoom_19: 1519441902
+      Astronaut Spritesheet-PhotoRoom_22: -1932436669
+      Astronaut Spritesheet-PhotoRoom_5: 146963350
+      Astronaut Spritesheet-PhotoRoom_8: 2132109709
+      Astronaut Spritesheet-PhotoRoom_6: -1566922931
+      Astronaut Spritesheet-PhotoRoom_27: 817414902
+      Astronaut Spritesheet-PhotoRoom_14: -237159260
+      Astronaut Spritesheet-PhotoRoom_1: -1320139587
+      Astronaut Spritesheet-PhotoRoom_20: -1953823615
+      Astronaut Spritesheet-PhotoRoom_2: 2103959475
+      Astronaut Spritesheet-PhotoRoom_28: -1969624000
+      Astronaut Spritesheet-PhotoRoom_18: 1829610148
+      Astronaut Spritesheet-PhotoRoom_25: 411492000
+      Astronaut Spritesheet-PhotoRoom_13: 1523077319
+      Astronaut Spritesheet-PhotoRoom_12: 887698287
+      Astronaut Spritesheet-PhotoRoom_3: -739675356
+      Astronaut Spritesheet-PhotoRoom_10: 100846908
+      Astronaut Spritesheet: -841895018
+      Astronaut Spritesheet-PhotoRoom_4: 1881733852
+      Astronaut Spritesheet-PhotoRoom_26: -1981572210
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
