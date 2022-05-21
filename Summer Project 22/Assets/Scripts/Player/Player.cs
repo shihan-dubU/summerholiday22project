@@ -118,8 +118,10 @@ public class Player : MonoBehaviour
 
     void PlayerShoot()
     {
-        if (Input.GetButtonDown("Fire1") && anim.GetBool(WALK_ANIMATION) == false && isWalking == false && isShooting == false)
+        if (Input.GetButtonDown("Fire1") && isShooting == false)
         {
+            isWalking = false;
+            anim.SetBool(WALK_ANIMATION , false);
             Debug.Log("PlayerShoot called");
             isShooting = true;
             anim.SetBool(SHOOT_ANIMATION, true);
