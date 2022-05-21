@@ -23,6 +23,7 @@ public class Player : MonoBehaviour
     private string SHOOT_ANIMATION = "Shoot";
 
     private bool isShooting;
+    private bool isWalking;
 
     private void Awake()
     {
@@ -50,6 +51,7 @@ public class Player : MonoBehaviour
         //if shooting you cannot move.
         if (isShooting == true)
         {
+            Debug.Log("Trying to move but animation locked");
             return;
         }
 
@@ -69,8 +71,11 @@ public class Player : MonoBehaviour
         //if shooting you cannot move.
         if (isShooting == true)
         {
+            Debug.Log("Trying to animate but animation locked");
             return;
         }
+
+        Debug.Log("Shooting Animation Active" + anim.GetBool(SHOOT_ANIMATION));
 
         //MOVEMENT
         //going towards right
@@ -81,6 +86,7 @@ public class Player : MonoBehaviour
                 transform.Rotate(0f, 180f, 0f);
                 facingX = 1f;
             }
+            isWalking = true;
             anim.SetBool(WALK_ANIMATION, true);
             //sr.flipX = false;
         }
@@ -92,24 +98,27 @@ public class Player : MonoBehaviour
                 transform.Rotate(0f, 180f, 0f);
                 facingX = -1f;
             }
+            isWalking = true;
             anim.SetBool(WALK_ANIMATION, true);
             //sr.flipX = true;
         }
         //moving up or down
         else if (movementY != 0)
         {
+            isWalking = true;
             anim.SetBool(WALK_ANIMATION, true);
         }
         //not moving
         else
         {
+            isWalking = false;
             anim.SetBool(WALK_ANIMATION, false);
         }
     }
 
     void PlayerShoot()
     {
-        if (Input.GetButtonDown("Fire1") && anim.GetBool(WALK_ANIMATION) == false)
+        if (Input.GetButtonDown("Fire1") && anim.GetBool(WALK_ANIMATION) == false && isWalking == false && isShooting == false)
         {
             Debug.Log("PlayerShoot called");
             isShooting = true;
