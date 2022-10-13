@@ -1,6 +1,6 @@
 # summerholiday22project
 
-#Summary:
+# Summary:
 A personal game project developed during summer 2022
 
 Developed by shihan-dubU and Histoire
