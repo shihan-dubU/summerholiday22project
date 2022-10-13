@@ -19,4 +19,4 @@ Potential additions in the future:
 
 
 
-Uploading gameplay demo - 1.mp4…
+https://user-images.githubusercontent.com/89450828/195488632-0b3f1128-d1d0-4f16-9bfa-96fce09a4aa7.mp4
