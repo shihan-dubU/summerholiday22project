@@ -7,10 +7,10 @@ This is a 2D survival game where you face endless waves of aliens and survive fo
 Developed in C# and run in unity.
 
 Current Patch:
-Movement
-Character Hitboxes
-Character Animations
-Enemey Spawners
+- Movement
+- Character Hitboxes
+- Character Animations
+- Enemy Spawners
 
 Potential additions in the future:
 - Story/Levels with puzzle elements
